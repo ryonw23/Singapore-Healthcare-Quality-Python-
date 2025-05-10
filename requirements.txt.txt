@@ -1,0 +1,15 @@
+All dependent libraries utilised in my Jupyter notebook
+1. pandas - import pandas as pd
+2. matplotlib - import matplotlib.pyplot as plt
+3. seaborn - import seaborn as sns
+4. requests - import requests
+5. BeautifulSoup - from bs4 import BeautifulSoup
+6. Selenium
+    - from selenium import webdriver
+    - from selenium.webdriver.common.by import By
+    - from selenium.webdriver.support.ui import WebDriverWait
+    - from selenium.webdriver.support import expected_conditions as EC
+    - from selenium.webdriver.firefox.service import Service
+    - from selenium.webdriver.chrome.service import Service
+    - from selenium.webdriver.edge.service import Service
+7. csv - import csv
